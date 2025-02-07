@@ -23,7 +23,7 @@ An AI-powered site, that helps interpret human test results to into ordinary lan
     pip install -r requirements.txt
     ```
 
-2.1* If you're on a Windows system
+    2.1* If you're on a Windows system
 
 
     You can run requirements_installer.bat to install dependencies instead of installing it manually
