@@ -22,13 +22,12 @@ An AI-powered site, that helps interpret human test results to into ordinary lan
     ```bash
     pip install -r requirements.txt
     ```
+2.1* If you're on a Windows system
+    You can run requirements_installer.bat to install dependencies instead of installing it manually
 3. Edit `index.html`:
     ```bash
     const API_KEY = 'enter your api key'; // Replace with your actual API key
     ```
-3.1* If you're on a Windows system
-    You can run requirements_installer.bat to install dependencies instead of installing it manually
-
 4. Edit `app.py`:
     ```python
     genai.configure(api_key="enter your gemini api key"); // Replace with your actual API key
